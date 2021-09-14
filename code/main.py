@@ -1,3 +1,5 @@
+# Created by Vincent Yu
+
 import discord
 import os
 import praw
