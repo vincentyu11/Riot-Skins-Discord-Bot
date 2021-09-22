@@ -47,11 +47,11 @@ cursor_valorant.close()
 
 client = commands.Bot(command_prefix='!')
 
-reddit = praw.Reddit(client_id = 'uUekxQ-fOdGu6q366PLoyQ',
-                     client_secret = 'BHiDvT8tJjUpVPF-DYVU3JO8DEQ-Qg',
-                     username = 'valowant_bot',
-                     password = 'Valowantbot123*',
-                     user_agent = 'valowant_bot v1.0',
+reddit = praw.Reddit(client_id = '',
+                     client_secret = '',
+                     username = '',
+                     password = '',
+                     user_agent = '',
                      check_for_async = False)
 
 def val_skin_data():    
